@@ -14,7 +14,7 @@
 ##*两个看似无用的按钮可以显示结果，项目中我是有别的作用的*
 
 
-![Image text](https://github.com/ZhangZiyao/Calculator/blob/master/Calculator/IMG_0047.PNG)
+![Image text](https://github.com/ZhangZiyao/Calculator/blob/master/Calculator/IMG_0048.PNG)
 
 
 ___如有错误欢迎指正。___
